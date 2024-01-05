@@ -1,2 +1,2 @@
 pkgname=mypackage
-pkgver=1.2.3
+pkgver=1.5.54
